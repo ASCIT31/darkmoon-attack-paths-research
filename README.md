@@ -133,7 +133,7 @@ Product documentation: [https://docs.dark-moon.org](https://docs.dark-moon.org)
 
 ## 12. Sister repository
 
-[ASCIT31/darkmoon-visualization-research](https://github.com/ASCIT31/darkmoon-visualization-research) (publishing) — research on how attack paths and evidence are visualised.
+[ASCIT31/darkmoon-visualization-research](https://github.com/ASCIT31/darkmoon-visualization-research) — research on how attack paths and evidence are visualised.
 
 ---
 
