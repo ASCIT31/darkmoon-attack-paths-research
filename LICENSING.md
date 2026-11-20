@@ -1,0 +1,6 @@
+# Licensing
+
+- **This repository** (text, diagrams, experiment pages, decision records, screenshots and metadata authored by the DarkMoon team) is released under the **GNU Affero General Public License v3.0**; see [`LICENSE`](LICENSE). This follows the licensing set-up of the public [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) repository, which is the reference; see its [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md).
+- **Cited third-party works keep their own licences and copyrights.** The bibliography in [`references/references.bib`](references/references.bib) contains metadata only; titles, abstracts, figures and results of cited papers, standards and benchmarks belong to their authors and publishers and are quoted or summarised for scholarly purposes.
+- **Trademarks.** Names of third-party products, frameworks, standards and vulnerable applications (for example MITRE ATT&CK, OWASP Juice Shop, DVGA, crAPI) belong to their owners and are used for identification only.
+- **Code** referenced from this repository lives in [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) under that repository's licence. DarkMoon Pro is proprietary and is not distributed here.

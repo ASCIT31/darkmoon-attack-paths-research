@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "DarkMoon Attack Paths Research: agent-declared attack-path edges, server-side qualification and their measured limits"
+abstract: >-
+  Research documentation on how DarkMoon, an autonomous AI penetration-testing system,
+  links findings into attack paths. LLM agents declare which earlier findings enabled a
+  new one; the server shows each declaration as a hypothesis and promotes it only by
+  exact value attribution on its own execution records. The repository documents the
+  architecture, its history, 61 experiments including negative results, decision records,
+  a verified literature review and acknowledged limits.
+type: software
+authors:
+  - name: "ASC (ASC-IT) — DarkMoon team"
+version: 1.0.0
+date-released: "2026-11-20"
+license: AGPL-3.0-only
+repository-code: "https://github.com/ASCIT31/darkmoon-attack-paths-research"
+url: "https://github.com/ASCIT31/darkmoon-attack-paths-research"
+keywords:
+  - attack paths
+  - attack graphs
+  - autonomous penetration testing
+  - LLM agents
+  - provenance
+  - causality
+  - multi-agent systems
+references:
+  - type: software
+    title: "Dark-Moon (DarkMoon Community)"
+    authors:
+      - name: "ASC (ASC-IT) — DarkMoon team"
+    repository-code: "https://github.com/ASCIT31/Dark-Moon"

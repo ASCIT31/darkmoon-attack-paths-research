@@ -1,0 +1,18 @@
+{
+  "product": "DarkMoon Community — Terminal Explorer (OpenCode TUI plugin, read-only)",
+  "version_commit": "Dark-Moon 28f2d4b (explorer plugin, ancestor of master 10eaab0) — https://github.com/ASCIT31/Dark-Moon/commit/28f2d4b594a0fe9379f82fecde173eecd6188306",
+  "binary": "opencode-darkmoon 1.19.6, model providers disabled (no model call possible during capture)",
+  "date": "2026-11-20",
+  "data_source": "synthetic demo",
+  "data_source_detail": "Demo seed: an anonymised copy of a lab campaign against DVGA (Damn Vulnerable GraphQL Application, a public intentionally vulnerable app) plus synthetic overlays (treatment statuses, owners, due dates, profile) labelled SYNTHETIC DEMO DATA in the data itself. No customer data.",
+  "capture_method": "tmux capture-pane -> ANSI -> HTML grid -> PNG (Playwright, DejaVu Sans Mono)",
+  "compression": "palette-quantised to 128 colours (no dithering) with Pillow; pngquant/optipng were not available",
+  "privacy_review": "checked visually 2026-11-20: no lab hostname, IP, credential or personal name visible",
+  "status": "real",
+  "file": "tui-community-03-legend-160x45.png",
+  "dimensions": {
+    "width": 1374,
+    "height": 789
+  },
+  "description": "Legend dialog: the shared vocabulary for Evidence-Backed vs Possible Attack Path, evidence status (exploited / confirmed / to confirm) and treatment marks. Note: the Evidence-Backed wording overstates the code for R3 steps; see docs/limitations."
+}
