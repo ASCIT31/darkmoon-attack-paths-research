@@ -113,7 +113,29 @@ Full list: [docs/limitations/](docs/limitations/README.md).
 
 ## 8. Publications and related articles
 
-**Articles — coming soon.** No article has been published yet. This section will list them when they exist.
+Articles published on the [DarkMoon blog](https://dark-moon.org/blog/#research-series) (English, 2026-11-20). Series A is built on this repository; the other articles cite it. The sister repository [darkmoon-visualization-research](https://github.com/ASCIT31/darkmoon-visualization-research#articles) lists the visualization and terminal articles. Benchmark runs: [Darkmoon-Benchmarks](https://github.com/ASCIT31/Darkmoon-Benchmarks).
+
+| # | Article | Series | In this repository / evidence |
+|---|---|---|---|
+| 1 | [From Vulnerability Findings to Attack Paths: DarkMoon's Research Journey](https://dark-moon.org/blog/from-vulnerability-findings-to-attack-paths/) | A · Architecture & attack paths | [Experiment registry](experiments) |
+| 2 | [Agent-Native Attack Graphs: Why We Let AI Agents Declare Dependencies](https://dark-moon.org/blog/agent-native-attack-graphs/) | A · Architecture & attack paths | [Agent-native graphs](docs/agent-native) |
+| 3 | [Attack Graphs, Knowledge Graphs and Causal Reasoning: What Is Actually Different?](https://dark-moon.org/blog/attack-graphs-knowledge-graphs-causal-reasoning/) | A · Architecture & attack paths | [Scientific positioning](research/scientific-positioning) |
+| 4 | [Building an Expert-System-Inspired Architecture with LLM Agents](https://dark-moon.org/blog/expert-system-inspired-architecture-llm-agents/) | A · Architecture & attack paths | [Expert-system notes](docs/expert-systems) |
+| 5 | [Why Our First Attack-Path Architectures Failed](https://dark-moon.org/blog/why-first-attack-path-architectures-failed/) | A · Architecture & attack paths | [Failed experiments](experiments/failed) |
+| 6 | [Declared vs Proven Attack Paths: A Practical Evidence Model](https://dark-moon.org/blog/declared-vs-proven-attack-paths-evidence-model/) | A · Architecture & attack paths | [Evidence model](docs/causal-model) |
+| 7 | [Measuring Attack-Path Reliability: Benchmarks, False Positives and Limitations](https://dark-moon.org/blog/measuring-attack-path-reliability/) | A · Architecture & attack paths | [Measured results](experiments/RESULTS.md) |
+| 8 | [Cross-Agent Dependencies and the Common-Root-Cause Problem](https://dark-moon.org/blog/cross-agent-dependencies-common-root-cause/) | A · Architecture & attack paths | [Measured results](experiments/RESULTS.md) |
+| 9 | [Redesigning a Cybersecurity Dashboard Around Attack Paths](https://dark-moon.org/blog/redesigning-cybersecurity-dashboard-around-attack-paths/) | B · Data visualization & UX | [Angular evolution](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/angular/evolution) |
+| 10 | [Visualizing Cyber Attack Paths: From Node-Link Diagrams to Orbital Graphs](https://dark-moon.org/blog/visualizing-cyber-attack-paths-node-link-to-orbital/) | B · Data visualization & UX | [Graph layouts](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/research/graph-layouts) |
+| 12 | [Designing Explainable Security Graphs Without Misrepresenting Evidence](https://dark-moon.org/blog/designing-explainable-security-graphs-without-misrepresenting-evidence/) | B · Data visualization & UX | [Data visualization](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/research/data-visualization) |
+| 14 | [Bringing DarkMoon to the Terminal: Building an OpenCode Explorer](https://dark-moon.org/blog/bringing-darkmoon-to-the-terminal-building-an-opencode-explorer/) | C · OpenCode & TUI | [TUI architecture](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/tui/architecture) |
+| 17 | [Visualizing Attack Paths in ASCII and Unicode](https://dark-moon.org/blog/visualizing-attack-paths-in-ascii-and-unicode/) | C · OpenCode & TUI | [TUI rendering](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/tui/rendering) |
+| 18 | [Why DarkMoon Community Is Moving from GPLv3 to AGPLv3](https://dark-moon.org/blog/why-darkmoon-community-is-moving-from-gplv3-to-agplv3/) | D · Open source & licence | [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md) |
+| 19 | [AGPLv3, Open Source and Commercial Editions: Understanding the Tradeoffs](https://dark-moon.org/blog/agplv3-open-source-and-commercial-editions-understanding-the-tradeoffs/) | D · Open source & licence | [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md) |
+| 20 | [Building DarkMoon in the Open: Research, Benchmarks, Failures and Reproducibility](https://dark-moon.org/blog/building-darkmoon-in-the-open-research-benchmarks-failures-and-reproducibility/) | D · Open source & licence | [Darkmoon-Benchmarks](https://github.com/ASCIT31/Darkmoon-Benchmarks) |
+| 21 | [Our Website dark-moon.org Receives an Awwwards Honorable Mention](https://dark-moon.org/blog/darkmoon-site-awwwards-honorable-mention/) | E · Website & recognition | — |
+| 22 | [Behind the Honorable Mention: the Design and Engineering of dark-moon.org](https://dark-moon.org/blog/design-and-engineering-behind-dark-moon-org/) | E · Website & recognition | — |
+| 23 | [From an Award-Winning Website to the Product: How dark-moon.org's Visual Research Shapes the DarkMoon Dashboard and Terminal Explorer](https://dark-moon.org/blog/from-website-to-product-interfaces/) | E · Website & recognition | [Before/after captures](https://github.com/ASCIT31/darkmoon-visualization-research/tree/main/screenshots/comparisons) |
 
 Related earlier work: [ASCIT31/darkmoon-attack-surface-research](https://github.com/ASCIT31/darkmoon-attack-surface-research), research notes on spatial, WebXR-capable attack-surface visualisation.
 
